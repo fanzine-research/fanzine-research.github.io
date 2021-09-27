@@ -1,3 +1,3 @@
-# eufoot.github.io
+# fanzine-research.github.io
 
 This is the public website of the FANZinE project. 
