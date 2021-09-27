@@ -6,11 +6,13 @@ plugins:
 title: Research Project FANZinE
 shorttitle: Home # Text for Link to home on all pages
 email: 
-description: >- Football as the basis for social cohesion in Europe (FANZinE) is a research project based at the University of Mainz, Germany. 
+description: >- # this means to ignore newlines until "baseurl:"
+  Football as the basis for social cohesion in Europe (FANZinE) is a research project conducted at the University of Mainz, Germany, funded by BMBF/DLR. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "fanzine-research.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "eufoot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eu_foot
-github_username:  fanzine-research
+github_username:  eufoot
+researchgate: "https://www.researchgate.net/project/The-identity-effect-of-Europeanised-lifeworlds-Becoming-European-through-football" 
 
 show_excerpts: true
 
