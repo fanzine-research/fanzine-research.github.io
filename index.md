@@ -6,7 +6,7 @@ permalink: /
 
 The FANZinE research project, funded by the BMBF, examines how being a football fan in professional men's football can contribute to cohesion in Europe. Against the backdrop of various European crises, intensifying anti-European attitudes in some countries and the establishment of Eurosceptic political movements, the aim is to extend previous research on European identity to include the influence of mass leisure activities such as men's professional football.
 
-The main research questions of the project are as follows:
+The main research questions of the project are:
 - **To what extent does football as a lifeworld and leisure activity influence the identification of football fans with Europe?**
 - **How does cohesion in Europe take place on the common cultural basis of football?**
 - **And what influences or promotes such identification and thus cohesion?**
