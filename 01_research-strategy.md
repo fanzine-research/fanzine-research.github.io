@@ -14,4 +14,5 @@ With this approach we combine quantitative with qualitative steps and seek to co
 
 ## Case selection
 The research project examines four countries in Europe: Germany, Norway, Poland and Spain. This case selection ensures that the units of analysis vary along a set of potentially influential variables such as their national league's competitive context, their geographical location, cultural and historical factors and their connection to the EU. We will investigate the selected countries with the assistance of local academic partners from the University of Valencia, University of Gdansk and the University of Oslo.
-<img src="/images/FANZinE_Länder.png" width="100" height="100">
+
+<img src="/images/FANZinE_Länder.png" width="250" height="250">
