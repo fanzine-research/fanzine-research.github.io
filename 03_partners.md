@@ -8,7 +8,6 @@ permalink: /partners/
 The research project is supported by a variety of academic and practice partners across Europe. They provide expertise and insight into both football fandom across in Europe and especially the respective partner countries, but also on underlying theory and research methodology.
 
 ## Academic partners
-![Partners](/images/FANZinE_Länder.png =250x250)
 - Prof. Dr. Jens Jungblut, University of Oslo
 - Prof. Dr. Ramon Llopis Goig, University of Valencia
 - Prof. Dr. Radoslaw Kossakowski, University of Gdansk
@@ -19,3 +18,9 @@ The research project is supported by a variety of academic and practice partners
 - Koordinationsstelle Fanprojekte
 - Bundesinstitut für Sportwissenschaft
 - Deutsche Akademie für Fußballkultur
+
+## Academic advisors
+- Prof. Dr. Alexander Brand, Hochschule Rhein-Waal
+- Dr. Marc Jungblut, Ludwig-Maximilians-Universität München
+- Dr. Daniel Stockemer, University of Ottawa
+- Dr. Regina Weber, Deutsches Zentrum für Schienenverkehrsforschung
