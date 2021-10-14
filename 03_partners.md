@@ -9,9 +9,9 @@ The research project is supported by a variety of academic and practice partners
 
 ## Academic partners
 ![Partners](/images/FANZinE_Länder.png =250x250)
-- Norway | Prof. Dr. Jens Jungblut | University of Oslo
-- Spain | Prof. Dr. Ramon Llopis Goig | University of Valencia
-- Poland | Prof. Dr. Radoslaw Kossakowski | University of Gdansk
+- Prof. Dr. Jens Jungblut, University of Oslo
+- Prof. Dr. Ramon Llopis Goig, University of Valencia
+- Prof. Dr. Radoslaw Kossakowski, University of Gdansk
 
 ## Practice partners
 - Football Supporters Europe
