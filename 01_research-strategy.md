@@ -6,6 +6,8 @@ permalink: /research-strategy/
 
 # Research Strategy 
 
+## Methodology
+
 We approach our research object by using a mixed-method research strategy consisting of three methodological steps:
 - a quantitative text analysis of the media representation of European competitions in football related online media to assess media representations of national and European competitions in specialist media
 - an online panel survey of fans and non-fans on Europe to measure the dimensions of communities of belonging and frames of reference as well as compare identity formations between countries and with non-fans
