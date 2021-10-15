@@ -1,5 +1,6 @@
 ---
 layout: default
+title:""
 permalink: /
 ---
 ## Football, European identities and social cohesion in Europe
