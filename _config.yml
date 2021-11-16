@@ -28,7 +28,7 @@ url: "eufoot.github.io" # the base hostname & protocol for your site, e.g. http:
 twitter_username: eu_foot
 github_username:  fanzine-research
 researchgate: "https://www.researchgate.net/project/The-identity-effect-of-Europeanised-lifeworlds-Becoming-European-through-football" 
-
+markdown: kramdown
 show_excerpts: true
 
 # Build settings
