@@ -5,11 +5,11 @@ permalink: /people/
 ---
 # People
 
-## [Prof. Dr Arne Niemann](https://international.politics.uni-mainz.de/staff/arne-niemann/)
+## [Prof. Dr Arne Niemann](https://international.politics.uni-mainz.de/staff/arne-niemann/){:target="_blank"_ rel="noopener"}
 
 Professor of International Politics at the Department of Political Science at the Johannes Gutenberg-University Mainz. He is currently the director of the tri-national, interdisciplinary MA programme in European Studies and co-director of the Jean Monnet Centre of Excellence “Europe in Global Dialogue”. From 2013-2015 he was co-editor of the Sport & EU Review. His research focuses on the European integration process, European Union politics, and particularly the external relations of the EU. He was a principal investigator in the [EUFOOT-project ('The identity effect of Europeanised lifeworlds. Becoming European through Football?')](https://eufoot.github.io/){:target="_blank"_ rel="noopener"}. Arne Niemann held positions at the universities of Amsterdam, Dresden and Cambridge and was a visiting researcher for example at the European University Institute in Fiesole. He received a BSc (Econ) in International Relations from the London School of Economics & Political Science as well as an MPhil in European Studies and a PhD in International Relations from the University of Cambridge.
 
-## [Dr. Johannes Muntschick](https://international.politics.uni-mainz.de/staff/johannes-muntschick/)
+## [Dr. Johannes Muntschick](https://international.politics.uni-mainz.de/staff/johannes-muntschick/){:target="_blank"_ rel="noopener"}
 Lecturer and post-doctoral researcher at the Department of Political Science at the Johannes Gutenberg-University Mainz. His research interests include international and regional governance institutions, regionalism and external influence, EU-Africa relations, politics and conflicts in the Global South, particularly in sub-Saharan Africa. He was inter alia associate researcher in the EUFOOT-project, where he focused on qualitative methods, interviews and IT-supported textual analysis (MAXQDA). Johannes Muntschick held positions at the Otto-Friedrich University of Bamberg, Germany, and was a visiting researcher for example at the School of Global Studies in Gothenburg, Sweden. He studied at the University of Bamberg and the University of Namibia and received a Diplom in Political Science, a State examination for Gymnasien (high schools) as well as a PhD in Political Science from the University of Bamberg. He conducted numerous field research trips in sub-Saharan Africa.
 
 ## Jenny Amann, M.Sci.
