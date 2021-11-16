@@ -19,6 +19,4 @@ Research associate at Department of Political Science at the Johannes Gutenberg-
 Research associate at Department of Political Science at the Johannes Gutenberg-University Mainz. An alumn of Mainz University, he graduated with a masters degree in Empirical Democracy Studies with an emphasis on quantitative research methods in January of 2021. In his Master’s thesis, he focussed on determinants of inequalities in political participation across 27 European countries. He has also worked in Education for Sustainable Development with schools and extracurricular youth groups, highlighting among other topics problematic working conditions in the football industry and in the context of the 2022 World Cup in Qatar.
 
 ## Vincent Reinke, B.A.
-
-To be updated.
-
+Research assistant at the Department of Political Science at the Johannes Gutenberg-University Mainz. Vincent studies the Master of Arts in International Sport Development and Politics at the German Sport University Cologne. An alumn of Mainz University, he graduated with a bachelors degree in Political Science with a focus on European politics. In addition to his academic career, he worked for different political and sports organisations.
