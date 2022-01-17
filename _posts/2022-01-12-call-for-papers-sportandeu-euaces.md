@@ -5,7 +5,7 @@ date: 2022-01-12
 tags:
   - project updates
 ---
-The FANZinE-Team is in the process of putting together a panels for both the Sport & EU conference in Lausanne (https://www.sportandeu.com) and the UACES conference in Lille (https://www.uaces.org/lille). The panels will be organized aroung the broad theme of "European Sport Governance, Media, and Identities”. If you want to be part of the panel for one or both of the conferences, please provide us with ALL of the following details:
+The FANZinE-Team is in the process of putting together a panels for both the [Sport & EU conference in Lausanne](https://www.sportandeu.com) and the [UACES conference in Lille](https://www.uaces.org/lille). The panels will be organized aroung the broad theme of "European Sport Governance, Media, and Identities”. If you want to be part of the panel for one or both of the conferences, please provide us with ALL of the following details:
 
 Which conference(s)
 Full Name
