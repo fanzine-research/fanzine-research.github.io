@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "News"
-permalink: /blog/
+permalink: /news/
 ---
 
 A log of all news articles. 
