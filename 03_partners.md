@@ -21,6 +21,6 @@ The research project is supported by a variety of academic and practice partners
 
 ## Academic advisors
 - Prof. Dr. Alexander Brand, Hochschule Rhein-Waal
+- Prof. Dr. Daniel Stockemer, University of Ottawa
 - Dr. Marc Jungblut, Ludwig-Maximilians-Universität München
-- Dr. Daniel Stockemer, University of Ottawa
 - Dr. Regina Weber, Deutsches Zentrum für Schienenverkehrsforschung
