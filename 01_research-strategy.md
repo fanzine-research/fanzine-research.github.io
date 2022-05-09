@@ -19,8 +19,8 @@ With this approach we combine quantitative with qualitative steps and seek to co
 <img src="/images/Partnerlaender.png" align="right" width="200px"/> The research project examines four countries in Europe: Germany, Norway, Poland and Spain. This case selection ensures that the units of analysis vary along a set of potentially influential variables such as their national league's competitive context, their geographical location, cultural and historical factors and their connection to the EU. We will investigate the selected countries with the assistance of local academic partners from the University of Valencia, University of Gdansk and the University of Oslo.
 | Country  | First division | UEFA-ranking | Intl. payers | EU-status | Public opinions on Europe | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| DE | Bundesliga | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| ES  | LaLiga | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| NO  | Eliteserien  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| PL  | Ekstraklasa | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| DE | Bundesliga | 4th | 54.3%  | founding member  | positive  |
+| ES  | LaLiga | 2nd  | 43.5%  | since 1986  | negative  |
+| NO  | Eliteserien  | 17th  | 29.2% | non-member | neutral |
+| PL  | Ekstraklasa | 28th  | 36.6%  | since 2004  | positive |
 
