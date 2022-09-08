@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paper presentation at UACES 2022'
+title: 'FANZinE at the UACES 2022 Conference'
 date: 2022-09-06
 tags:
   - project updates
