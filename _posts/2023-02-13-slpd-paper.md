@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First paper out! "Researching Football, Identity and Cohesion in Europe"'
-date: 2023-02-13
+date: 2023-02-12
 tags:
   - project updates
 ---
