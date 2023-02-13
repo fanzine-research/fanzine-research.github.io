@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research strategy"
+title: "Research Strategy"
 permalink: /research-strategy/
 ---
 
