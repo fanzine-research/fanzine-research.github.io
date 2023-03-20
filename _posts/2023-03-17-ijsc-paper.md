@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'First paper out! "Researching Football, Identity and Cohesion in Europe"'
-date: 2023-02-12
+title: 'New paper out! "Becoming European Through Football Media?" in the International Journal of Sports Communication'
+date: 2023-03-17
 tags:
   - project updates
 ---
