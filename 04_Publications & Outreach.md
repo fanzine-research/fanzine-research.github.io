@@ -4,6 +4,7 @@ title: "Publications & Outreach"
 permalink: /publications_outreach/
 ---
 # Publications
+- J. Biel, T. Finger, A. Niemann, V. Reinke, R. Kossakowski, J. Jungblut, D. Mańkowski, & R. Llopis‐Goig. (2023). A European Public Sphere United by Football: A Comparative Quantitative Text Analysis of German, Norwegian, Polish and Spanish Football Media. Journal of Common Market Studies. Advance online publication. [https://doi.org/10.1111/jcms.13559](https://doi.org/10.1111/jcms.13559)
 - J. Biel, T. Finger, V. Reinke, J. Amann, A. Niemann, M. Jungblut (2023) - Becoming European Through Football Media? Representations of Europe in German Football News Coverage. International Journal of Sport Communication, 16(2), 202–214. [https://doi.org/10.1123/ijsc.2023-0004](https://doi.org/10.1123/ijsc.2023-0004)
 - T. Finger, J. Amann, J. Biel, A. Niemann, V. Reinke (2023) - Researching Football, Identity and Cohesion in Europe. Sports Law, Policy & Diplomacy Journal, 1(1), 137–163. [https://doi.org/10.30925/slpdj.1.1.5](https://doi.org/10.30925/slpdj.1.1.5)
 
