@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "People"
-permalink: /people/
+title: "People & Partners"
+permalink: /people_partners/
 ---
 # People
 
