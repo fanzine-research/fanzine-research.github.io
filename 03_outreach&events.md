@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Partners"
-permalink: /partners/
+title: "Outreach & Events"
+permalink: /outreach_events/
 ---
 # Partners
 
