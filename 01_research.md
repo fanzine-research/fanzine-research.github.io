@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Methodology
+# Methodology
 We approach our research object by using a mixed-method research strategy consisting of three methodological steps:
 - a **quantitative text analysis** of the media representation of European competitions in football related online media to assess media representations of national and European competitions in specialist media
 - an **online panel survey of fans and non-fans** on Europe to measure the dimensions of communities of belonging and frames of reference as well as compare identity formations between countries and with non-fans
@@ -12,10 +12,10 @@ We approach our research object by using a mixed-method research strategy consis
 
 With this approach we combine quantitative with qualitative steps and seek to comprehensively investigate the processes of identity formation and its role for social cohesion across Europe.
 
-## Case selection 
+# Case selection 
 <img src="/images/FANZinE_Länder.png" align="right" width="200px"/> The research project examines four countries in Europe: Germany, Norway, Poland and Spain. This case selection ensures that the units of analysis vary along a set of potentially influential variables such as their national league's competitive context, their geographical location, cultural and historical factors and their connection to the EU. The case selection reflects the great diversity and heterogeneity of football fandom in Europe. We will investigate the selected countries with the assistance of local academic partners from the University of Valencia, University of Gdansk and the University of Oslo.
 
-## Results
+# Results
 The project has produced significant and novel results that illustrate the impact of professional club football on European identity and social cohesion. These results include:
 - Football as a Social Cohesion Tool: Football has shown promise as a means to enhance social cohesion in Europe by providing a platform for diverse audiences to engage in a shared leisure activity and promote cooperation among nations.
 - European Public Football Sphere: The convergence of football coverage across national media spaces has led to the development of a European public football sphere. However, this sphere tends to be homogenous and exclusive, potentially leaving certain regions of Europe less represented.
