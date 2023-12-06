@@ -28,7 +28,7 @@ The research project is supported by a variety of academic and practice partners
 ## Academic partners
 - Prof. Dr. Jens Jungblut, University of Oslo
 - Prof. Dr. Ramon Llopis Goig, University of Valencia
-- Prof. Dr. Radoslaw Kossakowski, University of Gdansk
+- Prof. Dr. Radosław Kossakowski and Dr. Dobrosław Mańkowski, University of Gdansk
 
 ## Practice partners
 - Football Supporters Europe
