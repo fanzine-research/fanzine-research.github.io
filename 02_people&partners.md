@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "People & Partners"
 permalink: /people_partners/
 ---
 # People
