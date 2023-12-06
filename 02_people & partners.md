@@ -20,3 +20,24 @@ Research associate at Department of Political Science at the Johannes Gutenberg-
 
 ## Vincent Reinke, M.A.
 Research associate at the Department of Political Science at the Johannes Gutenberg-University Mainz. Vincent graduated with a Master of Arts in International Sport Development and Politics at the German Sport University Cologne. An alumn of Mainz University, he graduated with a bachelors degree in Political Science with a focus on European politics. In addition to his academic career, he worked for different political and sports organisations.
+
+# Partners
+
+The research project is supported by a variety of academic and practice partners across Europe. They provide expertise and insight into football fandom, especially the respective partner countries, but also on underlying theory and research methodology.
+
+## Academic partners
+- Prof. Dr. Jens Jungblut, University of Oslo
+- Prof. Dr. Ramon Llopis Goig, University of Valencia
+- Prof. Dr. Radoslaw Kossakowski, University of Gdansk
+
+## Practice partners
+- Football Supporters Europe
+- Koordinationsstelle Fanprojekte
+- Bundesinstitut für Sportwissenschaft
+- Deutsche Akademie für Fußballkultur
+
+## Academic advisors
+- Prof. Dr. Alexander Brand, Hochschule Rhein-Waal
+- Prof. Dr. Daniel Stockemer, University of Ottawa
+- Dr. Marc Jungblut, Ludwig-Maximilians-Universität München
+- Dr. Regina Weber, Deutsches Zentrum für Schienenverkehrsforschung
