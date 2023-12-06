@@ -14,7 +14,6 @@ The research project is supported by a variety of academic and practice partners
 
 ## Practice partners
 - Football Supporters Europe
-- Sports Direct Europe
 - Koordinationsstelle Fanprojekte
 - Bundesinstitut für Sportwissenschaft
 - Deutsche Akademie für Fußballkultur
