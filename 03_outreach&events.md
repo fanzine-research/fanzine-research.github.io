@@ -4,7 +4,7 @@ title: "Outreach & Events"
 permalink: /outreach_events/
 ---
 # Outreach & Events
--   J. Biel - presented **No longer sidelined? Football fandom, belonging, and the boundaries of Europe** at the [First Annual FORTHEM Conference FORTHEM - For the Future](https://conferences.lu.lv/event/396/)
+-   J. Biel - presented **No longer sidelined? Football fandom, belonging, and the boundaries of Europe** at the [First Annual FORTHEM Conference FORTHEM - For the Future](https://conferences.lu.lv/event/396/)
 -  Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 -  R. Kossakowski, J. Biel, T. Finger, A. Niemann, V. Reinke, J. Jungblut, R. Llopis-Goig - [**Football governance and democratic values: A comparative study of fans’ attitudes from Germany, Norway, Poland, and Spain**](https://static1.squarespace.com/static/63dd76a1da9d252f1cef4e7b/t/65b8f46395dc9e566d350391/1706620003881/Football+Collective+Conference+2023+-+Schedule+v7.pdf), presentation at the 2023 Football Collective conference in Leeds, UK, 2023-11-25.
 -  A. Niemann, J. Biel, T. Finger,  V. Reinke - [**Spielfeld Europa: Die Bedeutung des Fußballs für europäische Identitäten, Zugehörigkeit und Zusammenhalt**](https://www.blogs.uni-mainz.de/fb02-fachschaft-politik/ueber-uns/ringvorlesung/), lecture in the lecture series "Beyond Entertainment: Großveranstaltungen zwischen Spektakel und Politik", 2023-11-16 ([Archive link](https://web.archive.org/web/20231116074339/https://www.blogs.uni-mainz.de/fb02-fachschaft-politik/ueber-uns/ringvorlesung/)).
