@@ -46,4 +46,4 @@ The research project is supported by a variety of academic and practice partners
 - Prof. Dr. Daniel Stockemer, University of Ottawa
 - Dr. Marc Jungblut, Ludwig-Maximilians-Universität München
 - Dr. Regina Weber, Deutsches Zentrum für Schienenverkehrsforschung
-- M.A. Jennifer Amann, Loughborough University.
+- M.A. Jennifer Amann, Loughborough University
