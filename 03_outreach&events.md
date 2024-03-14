@@ -4,7 +4,7 @@ title: "Outreach & Events"
 permalink: /outreach_events/
 ---
 # Outreach & Events
--   T. Finger - **#253 | FANZinE: Fußball, Identität und Zusammenhalt in Europa** at Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa/)
+-   T. Finger - **#253 | FANZinE: Fußball, Identität und Zusammenhalt in Europa** at Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa].
 -   J. Biel - presented **No longer sidelined? Football fandom, belonging, and the boundaries of Europe** at the [First Annual FORTHEM Conference FORTHEM - For the Future](https://conferences.lu.lv/event/396/)
 -  Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 -  R. Kossakowski, J. Biel, T. Finger, A. Niemann, V. Reinke, J. Jungblut, R. Llopis-Goig - [**Football governance and democratic values: A comparative study of fans’ attitudes from Germany, Norway, Poland, and Spain**](https://static1.squarespace.com/static/63dd76a1da9d252f1cef4e7b/t/65b8f46395dc9e566d350391/1706620003881/Football+Collective+Conference+2023+-+Schedule+v7.pdf), presentation at the 2023 Football Collective conference in Leeds, UK, 2023-11-25.
