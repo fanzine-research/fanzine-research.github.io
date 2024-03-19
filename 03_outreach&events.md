@@ -4,6 +4,7 @@ title: "Outreach & Events"
 permalink: /outreach_events/
 ---
 # Outreach & Events
+-   T. Finger, V. Reinke - Workshop **Europäischer Fußball, europäische Fans? Transnationaler Zusammenhalt durch Fankultur** at the Annual Conference of the Bundesarbeitsgemeinschaft der Fanprojekte, 2014-03-20
 -   T. Finger - **#253 FANZinE: Fußball, Identität und Zusammenhalt in Europa** at Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa).
 -   J. Biel - presented **No longer sidelined? Football fandom, belonging, and the boundaries of Europe** at the [First Annual FORTHEM Conference FORTHEM - For the Future](https://conferences.lu.lv/event/396/)
 -  Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
