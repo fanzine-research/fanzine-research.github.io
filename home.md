@@ -11,4 +11,5 @@ The **FANZinE project** is explores the potential of professional men's club foo
 FANZinE builds on and expands the work done by the [EUFOOT-project ('The identity effect of Europeanised lifeworlds. Becoming European through Football?')](https://eufoot.github.io/){:target="_blank" rel="noopener"}.
 
 **Upcoming Events:**
+
 29th April: [Steilvorlage für Europa! Wie Fußball-Fankultur den sozialen Zusammenhalt fördert](https://www.lotta-koeln.de/event-details/vortrag-podiumsdiskussion-steilvorlage-fur-europa-wie-fussball-fankultur-den-sozialen-zusammenhalt-fordert) in the LOTTA bar in Cologne
