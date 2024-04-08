@@ -13,4 +13,4 @@ FANZinE builds on and expands the work done by the [EUFOOT-project ('The identit
 **Upcoming Events:**
 
 -   29th April: "[Steilvorlage für Europa! Wie Fußball-Fankultur den sozialen Zusammenhalt fördert](https://www.lotta-koeln.de/event-details/vortrag-podiumsdiskussion-steilvorlage-fur-europa-wie-fussball-fankultur-den-sozialen-zusammenhalt-fordert)" in the LOTTA bar in Cologne
--   6th May: Workshop "'Mehr als nur ein Spiel': Fußball-Fankultur als demokratische Arena für Europa" at the [Sport & Demokratie Conference of the Bundeszentrale für politische Bildung](https://www.bpb.de/veranstaltungen/veranstaltungskalender/546474/sport-und-demokratie/) in the Deutschen Sport & Olympiamuseum in Cologne
+-   6th May: Workshop "'Mehr als nur ein Spiel': Fußball-Fankultur als demokratische Arena für Europa" at the [Sport & Demokratie Conference of the Bundeszentrale für politische Bildung](https://www.bpb.de/veranstaltungen/veranstaltungskalender/546474/sport-und-demokratie/) in the German Sport & Olympia Museum in Cologne
