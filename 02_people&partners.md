@@ -21,7 +21,7 @@ Research associate at Department of Political Science at the Johannes Gutenberg-
 
 Research associate at Department of Political Science at the Johannes Gutenberg-University Mainz. In May 2021, Tobias graduated from Humboldt-University of Berlin with a Master of Arts in Social Sciences, which preliminarily concluded his studies in this field that took him from Heinrich-Heine-University Düsseldorf to Prague, Vancouver and Berlin. With a focus on democracy and transformation, his Master's thesis investigated the interrelations of discourse, power and space in marginalized urban neighborhoods. Previously, Tobias also worked as a journalist for a variety of media outlets, focusing among other topics on the social embeddedness and political implications of football. He also held a position as research associate at the Deutscher Bundestag and worked for a private international foundation supporting human rights and strengthening democracy around the globe.
 
-## Vincent Reinke, M.A.
+## [Vincent Reinke, M.A.](https://internationale.politik.uni-mainz.de/vincent-reinke/){:target="_blank"_ rel="noopener"}
 
 Research associate at the Department of Political Science at the Johannes Gutenberg-University Mainz. Vincent graduated with a Master of Arts in International Sport Development and Politics at the German Sport University Cologne. An alumn of Mainz University, he graduated with a bachelors degree in Political Science with a focus on European politics. In addition to his academic career, he worked for different political and sports organisations.
 
