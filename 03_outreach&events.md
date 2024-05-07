@@ -15,7 +15,8 @@ permalink: /outreach_events/
 -  J. Amann, J. Biel, A. Niemann - **Keynote: Football and European Belonging** and **Workshop: Measuring People’s Feeling of Belonging to Europe**, contributions to the ["FORTHEM Winter School: Belonging and Non-Belonging in Europe"](https://internationale.politik.uni-mainz.de/files/2021/11/FORTHEM_promotion_slide.pdf), 2022-02-22.
 
 # Activities with organisations from practice
--   T. Finger & V. Reinke - Presentation and panel discussion **[Steilvorlage für Europa! Wie Fußball-Fankultur den sozialen Zusammenhalt fördert](https://www.lotta-koeln.de/event-details/vortrag-podiumsdiskussion-steilvorlage-fur-europa-wie-fussball-fankultur-den-sozialen-zusammenhalt-fordert)** in the LOTTA bar in Cologne, 2024-04-29
+-   T. Finger & V. Reinke - Presentation and Discussion "'Mehr als nur ein Spiel': Fußball-Fankultur als demokratische Arena für Europa" at the [Sport & Demokratie Conference of the Bundeszentrale für politische Bildung](https://www.bpb.de/veranstaltungen/veranstaltungskalender/546474/sport-und-demokratie/) in the German Sport & Olympia Museum in Cologne, 2024-05-06.
+-   T. Finger & V. Reinke - Presentation and Discussion **[Steilvorlage für Europa! Wie Fußball-Fankultur den sozialen Zusammenhalt fördert](https://www.lotta-koeln.de/event-details/vortrag-podiumsdiskussion-steilvorlage-fur-europa-wie-fussball-fankultur-den-sozialen-zusammenhalt-fordert)** in the LOTTA bar in Cologne, 2024-04-29.
 -   T. Finger & V. Reinke - Workshop **Europäischer Fußball, europäische Fans? Transnationaler Zusammenhalt durch Fankultur** at the Annual Conference of Bundesarbeitsgemeinschaft der Fanprojekte, 2024-03-20.
 -   Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
