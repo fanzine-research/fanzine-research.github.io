@@ -21,5 +21,6 @@ permalink: /outreach_events/
 -   Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
 # Media
+-  A. Niemann - **Studie der Universität Mainz: Warum viele Fußballfans häufig auch Fans von Europa sind** at [Deutschlandfunk](https://www.deutschlandfunk.de/fussballfans-lieben-europa-studie-uni-mainz-100.html), 2024-05-25.
 -   T. Finger - **11Freunde am Morgen: Ein Leben lang** at Podcast [11Freunde täglich](https://www.11freunde.de/thema/11freunde-taeglich/), 2024-04-25.
 -   T. Finger - **#253 FANZinE: Fußball, Identität und Zusammenhalt in Europa** at Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa), 2024-03-13.
