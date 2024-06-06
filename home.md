@@ -10,7 +10,7 @@ The **FANZinE project** explores the potential of professional men's club footba
 
 FANZinE builds on and expands the work done by the [EUFOOT-project ('The identity effect of Europeanised lifeworlds. Becoming European through Football?')](https://eufoot.github.io/){:target="_blank" rel="noopener"}.
 
-# Upcoming Events
+**Upcoming Events**
 
 -  "Vereint durch Fußball - Zusammenhalt in EUROpa" on June 12, 2024, in Berlin will discuss how football can strengthen social cohesion in Europe amidst significant political and social challenges, featuring a keynote, research presentations, and a panel discussion with experts.
 
