@@ -12,7 +12,7 @@ FANZinE builds on and expands the work done by the [EUFOOT-project ('The identit
 
 **Upcoming Events**
 
--  "Vereint durch Fußball - Zusammenhalt in EUROpa" on June 12, 2024, in Berlin will discuss how football can strengthen social cohesion in Europe amidst significant political and social challenges, featuring a keynote, research presentations, and a panel discussion with experts.
+-  ["Vereint durch Fußball - Zusammenhalt in EUROpa"](https://eveeno.com/vereint-durch-fussball){:target="_blank" rel="noopener"} on June 12, 2024, in Berlin will discuss how football can strengthen social cohesion in Europe amidst significant political and social challenges, featuring a keynote, research presentations, and a panel discussion with experts.
 
 [![Upcoming Event](images/banner.jpg)](https://eveeno.com/vereint-durch-fussball){:target="_blank" rel="noopener"}
 
