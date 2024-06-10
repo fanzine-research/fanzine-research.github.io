@@ -21,7 +21,8 @@ permalink: /outreach_events/
 -   Fanzine-Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
 # Media
--  T. Finger & V. Reinke - **Fußball und Identität: "Fußballfans sind europäischere Bürger als andere"** at [Zeit Online](https://www.zeit.de/sport/2024-06/fussball-identitaet-europa-forschung-migration/komplettansicht), 2024-06-06.
--  A. Niemann - **Studie der Universität Mainz: Warum viele Fußballfans häufig auch Fans von Europa sind** at [Deutschlandfunk](https://www.deutschlandfunk.de/fussballfans-lieben-europa-studie-uni-mainz-100.html), 2024-05-25.
--   T. Finger - **11Freunde am Morgen: Ein Leben lang** at Podcast [11Freunde täglich](https://www.11freunde.de/thema/11freunde-taeglich/), 2024-04-25.
--   T. Finger - **#253 FANZinE: Fußball, Identität und Zusammenhalt in Europa** at Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa), 2024-03-13.
+-  A. Niemann, T. Finger, V. Reinke - **Europa ist nicht nur Paris und London** in [Ballesterer #189, Juni/Juli 2024](https://ballesterer.at/issues/em-24/)
+-  T. Finger & V. Reinke - **Fußball und Identität: "Fußballfans sind europäischere Bürger als andere"** in [Zeit Online](https://www.zeit.de/sport/2024-06/fussball-identitaet-europa-forschung-migration/komplettansicht), 2024-06-06.
+-  A. Niemann - **Studie der Universität Mainz: Warum viele Fußballfans häufig auch Fans von Europa sind** in [Deutschlandfunk](https://www.deutschlandfunk.de/fussballfans-lieben-europa-studie-uni-mainz-100.html), 2024-05-25.
+-   T. Finger - **11Freunde am Morgen: Ein Leben lang** in Podcast [11Freunde täglich](https://www.11freunde.de/thema/11freunde-taeglich/), 2024-04-25.
+-   T. Finger - **#253 FANZinE: Fußball, Identität und Zusammenhalt in Europa** in Podcast [Brennpunkt-Orange.de](https://podcast.brennpunkt-orange.de/253-europa), 2024-03-13.
