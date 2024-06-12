@@ -10,7 +10,7 @@ permalink: /publications/
 - T. Finger, J. Amann, J. Biel, A. Niemann, V. Reinke (2023) - **Researching Football, Identity and Cohesion in Europe**. Sports Law, Policy & Diplomacy Journal, 1(1), 137–163. [https://doi.org/10.30925/slpdj.1.1.5](https://doi.org/10.30925/slpdj.1.1.5)
 
 # Policy Papers
-- T. Finger, V. Reinke, J. Biel, A. Niemann (2024) - **Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work: A Policy Proposal for Similar Structures and Standards across Europe.**. Mainz Papers on International and European Politics, No. 29. Mainz: Chair of International Relations, Johannes Gutenberg University. [https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf)
+- T. Finger, V. Reinke, J. Biel, A. Niemann (2024) - **Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work: A Policy Proposal for Similar Structures and Standards across Europe**. Mainz Papers on International and European Politics, No. 29. Mainz: Chair of International Relations, Johannes Gutenberg University. [https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf)
 
 # Non-Scientific Publications
 - J. Biel - [**Representations of Europe in the European Public Football Sphere**](https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/), The JCMS Blog - Insight from the Journal of Common Market Studies, 2023-11-09 ([Archive link](https://web.archive.org/web/20231109081219/https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/))
