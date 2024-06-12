@@ -9,6 +9,9 @@ permalink: /publications/
 - J. Biel, T. Finger, V. Reinke, J. Amann, A. Niemann, M. Jungblut (2023) - **Becoming European Through Football Media? Representations of Europe in German Football News Coverage**. International Journal of Sport Communication, 16(2), 202–214. [https://doi.org/10.1123/ijsc.2023-0004](https://doi.org/10.1123/ijsc.2023-0004)
 - T. Finger, J. Amann, J. Biel, A. Niemann, V. Reinke (2023) - **Researching Football, Identity and Cohesion in Europe**. Sports Law, Policy & Diplomacy Journal, 1(1), 137–163. [https://doi.org/10.30925/slpdj.1.1.5](https://doi.org/10.30925/slpdj.1.1.5)
 
+# Policy Papers
+- T. Finger, V. Reinke, J. Biel, A. Niemann (2024) **Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work: A Policy Proposal for Similar Structures and Standards across Europe.** - Mainz Papers on International and European Politics, No. 29. Mainz: Chair of International Relations, Johannes Gutenberg University. [https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf)
+
 # Non-Scientific Publications
 - J. Biel - [**Representations of Europe in the European Public Football Sphere**](https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/), The JCMS Blog - Insight from the Journal of Common Market Studies, 2023-11-09 ([Archive link](https://web.archive.org/web/20231109081219/https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/))
 - T. Finger, J. Biel, A. Niemann  V. Reinke - [**Von Konsum, Kritik und Kon­sum­kritik**](https://11freunde.de/artikel/von-konsum-kritik-und-konsumkritik/9049622?komplettansicht=), 11freunde.de, 2023-08-24 ([Archive link](https://web.archive.org/web/20230824125147/https://11freunde.de/artikel/von-konsum-kritik-und-konsumkritik/9049622?komplettansicht=))
