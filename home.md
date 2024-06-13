@@ -11,10 +11,12 @@ The **FANZinE project** explores the potential of professional men's club footba
 FANZinE builds on and expands the work done by the [EUFOOT-project ('The identity effect of Europeanised lifeworlds. Becoming European through Football?')](https://eufoot.github.io/){:target="_blank" rel="noopener"}.
 
 **Policy Recommendations**
-<img src="/images/Policy_paper_1.png" align="right" width="150px"/> We are excited to present our first policy paper, *Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work*. This comprehensive proposal outlines strategies to enhance social cohesion across Europe by adopting and adapting successful socio-pedagogical fan work structures from Germany. By promoting international collaboration and creating a unified framework, we aim to leverage football's potential to strengthen European identity and social cohesion. Read the full paper [here](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf).
+<a href="https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf">
+    <img src="/images/Policy Paper_Fanprojekte & Vernetzung_screenshot.png.png" align="right" width="150px"/>
+</a> We are excited to present our first policy paper, *Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work*. This comprehensive proposal outlines strategies to enhance social cohesion across Europe by adopting and adapting successful socio-pedagogical fan work structures from Germany. By promoting international collaboration and creating a unified framework, we aim to leverage football's potential to strengthen European identity and social cohesion. Read the full paper [here](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf){:target="_blank"_ rel="noopener"}.
 
 
 **Upcoming Events**
 
-- 13th June: Presentation and Discussion ["Fußball verbindet?! Fankultur zur Stärkung des sozialen Zusammenhaltes in Europa"](https://www.hannover.de/Kultur-Freizeit/Architektur-Geschichte/Erinnerungskultur/Gedenkst%C3%A4tte-Ahlem/Programm-Gedenkst%C3%A4tte-Ahlem/%E2%80%9EFu%C3%9Fball-verbindet%E2%80%9C) in the clubhouse of SV Arminia Hannover 
-- 25th/26th June: Presentation "Fan-ning the European flame: Building identity and social cohesion through football fandom" at the [2024 Sport&EU Conference](https://www.sportandeu.com/2024-conference), in Angers (France)
+- 13th June: Presentation and Discussion ["Fußball verbindet?! Fankultur zur Stärkung des sozialen Zusammenhaltes in Europa"](https://www.hannover.de/Kultur-Freizeit/Architektur-Geschichte/Erinnerungskultur/Gedenkst%C3%A4tte-Ahlem/Programm-Gedenkst%C3%A4tte-Ahlem/%E2%80%9EFu%C3%9Fball-verbindet%E2%80%9C){:target="_blank"_ rel="noopener"} in the clubhouse of SV Arminia Hannover 
+- 25th/26th June: Presentation "Fan-ning the European flame: Building identity and social cohesion through football fandom" at the [2024 Sport&EU Conference](https://www.sportandeu.com/2024-conference){:target="_blank"_ rel="noopener"}, in Angers (France)
