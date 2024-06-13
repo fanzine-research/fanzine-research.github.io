@@ -12,7 +12,7 @@ FANZinE builds on and expands the work done by the [EUFOOT-project ('The identit
 
 **Policy Recommendations**
 <a href="https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf">
-    <img src="/images/Policy Paper_Fanprojekte & Vernetzung_screenshot.png.png" align="right" width="150px"/>
+    <img src="/images/Policy_paper_1.png" align="right" width="150px"/>
 </a> We are excited to present our first policy paper, *Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work*. This comprehensive proposal outlines strategies to enhance social cohesion across Europe by adopting and adapting successful socio-pedagogical fan work structures from Germany. By promoting international collaboration and creating a unified framework, we aim to leverage football's potential to strengthen European identity and social cohesion. Read the full paper [here](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf){:target="_blank"_ rel="noopener"}.
 
 
