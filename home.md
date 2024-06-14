@@ -19,5 +19,4 @@ FANZinE builds on and expands the work done by the [EUFOOT-project ('The identit
 
 **Upcoming Events**
 
-- 13th June: Presentation and Discussion ["Fußball verbindet?! Fankultur zur Stärkung des sozialen Zusammenhaltes in Europa"](https://www.hannover.de/Kultur-Freizeit/Architektur-Geschichte/Erinnerungskultur/Gedenkst%C3%A4tte-Ahlem/Programm-Gedenkst%C3%A4tte-Ahlem/%E2%80%9EFu%C3%9Fball-verbindet%E2%80%9C){:target="_blank"_ rel="noopener"} in the clubhouse of SV Arminia Hannover 
 - 25th/26th June: Presentation "Fan-ning the European flame: Building identity and social cohesion through football fandom" at the [2024 Sport&EU Conference](https://www.sportandeu.com/2024-conference){:target="_blank"_ rel="noopener"}, in Angers (France)
