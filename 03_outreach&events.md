@@ -23,6 +23,7 @@ permalink: /outreach_events/
 -   FANZinE Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
 # Media
+-  T. Finger **'Responsibility to act': Football, and sport in general, 'embedded in a political landscape'** in [France24 Day Break](https://www.youtube.com/watch?v=Sv8_5Od6hMk), 2024-06-17.
 -  A. Niemann, T. Finger, V. Reinke - **Europa ist nicht nur Paris und London** in [Ballesterer #189, Juni/Juli 2024](https://ballesterer.at/issues/em-24/)
 -  T. Finger & V. Reinke - **Fußball und Identität: "Fußballfans sind europäischere Bürger als andere"** in [Zeit Online](https://www.zeit.de/sport/2024-06/fussball-identitaet-europa-forschung-migration/komplettansicht), 2024-06-06.
 -  A. Niemann - **Studie der Universität Mainz: Warum viele Fußballfans häufig auch Fans von Europa sind** in [Deutschlandfunk](https://www.deutschlandfunk.de/fussballfans-lieben-europa-studie-uni-mainz-100.html), 2024-05-25.
