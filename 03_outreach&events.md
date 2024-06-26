@@ -4,6 +4,7 @@ title: "Outreach & Events"
 permalink: /outreach_events/
 ---
 # Scientific Conferences & Lectures
+-   A. Niemann & T. Finger - Presented "Fan-ning the European flame: Building identity and social cohesion through football fandom" at the [2024 Sport&EU Conference](https://www.sportandeu.com/2024-conference), in Angers, France, 2024-06-25.
 -   J. Biel - Presented **No longer sidelined? Football fandom, belonging, and the boundaries of Europe** at the [First Annual FORTHEM Conference: FORTHEM - For the Future](https://conferences.lu.lv/event/396/), 2024-03-06.
 -   R. Kossakowski, J. Biel, T. Finger, A. Niemann, V. Reinke, J. Jungblut, R. Llopis-Goig - Presented **Football governance and democratic values: A comparative study of fans’ attitudes from Germany, Norway, Poland, and Spain**, at the [2023 Football Collective conference](https://www.thefootballcollective.com/2023) in Leeds, UK, 2023-11-25.
 -   A. Niemann, J. Biel, T. Finger,  V. Reinke - Lecture **Spielfeld Europa: Die Bedeutung des Fußballs für europäische Identitäten, Zugehörigkeit und Zusammenhalt** in the lecture series [Beyond Entertainment: Großveranstaltungen zwischen Spektakel und Politik](https://www.blogs.uni-mainz.de/fb02-fachschaft-politik/ueber-uns/ringvorlesung/), in Mainz, 2023-11-16.
