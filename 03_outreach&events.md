@@ -25,7 +25,7 @@ permalink: /outreach_events/
 
 # Media
 - J. Biel - Interview in **Die Weber: Nach der Fußball-EM - Was nehmen wir mit vom Wir-Gefühl?** in [RBB Radioeins](https://www.radioeins.de/programm/sendungen/sendungen/433/2407/240712_die_weber_25002.html), 2024-07-12.
-- V. Reinke - Interview **Beziehungsweise: Fußball und Europa – das Projekt FANZinE** in [Bolztibüne](https://bolztribuene.de/2024/07/12/beziehungsweise-fussball-und-europa-das-projekt-fanzine/), 2024-07-12.
+- V. Reinke - Interview **Beziehungsweise: Fußball und Europa – das Projekt FANZinE** in [Bolztribüne](https://bolztribuene.de/2024/07/12/beziehungsweise-fussball-und-europa-das-projekt-fanzine/), 2024-07-12.
 -  T. Finger - Interview **'Responsibility to act': Football, and sport in general, 'embedded in a political landscape'** in [France24 Day Break](https://www.youtube.com/watch?v=Sv8_5Od6hMk), 2024-06-17.
 -  A. Niemann, T. Finger, V. Reinke - Interview **Europa ist nicht nur Paris und London** in [Ballesterer #189, June/July 2024](https://ballesterer.at/issues/em-24/)
 -  T. Finger & V. Reinke - Interview **Fußball und Identität: "Fußballfans sind europäischere Bürger als andere"** in [Zeit Online](https://www.zeit.de/sport/2024-06/fussball-identitaet-europa-forschung-migration/komplettansicht), 2024-06-06.
