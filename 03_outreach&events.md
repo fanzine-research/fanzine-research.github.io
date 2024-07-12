@@ -24,6 +24,7 @@ permalink: /outreach_events/
 -   FANZinE Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
 # Media
+- J. Biel - Interview in **Die Weber: Nach der Fußball-EM - Was nehmen wir mit vom Wir-Gefühl?** for [RBB Radioeins](https://www.radioeins.de/programm/sendungen/sendungen/433/2407/240712_die_weber_25002.html), 2024-07-12.
 -  T. Finger **'Responsibility to act': Football, and sport in general, 'embedded in a political landscape'** in [France24 Day Break](https://www.youtube.com/watch?v=Sv8_5Od6hMk), 2024-06-17.
 -  A. Niemann, T. Finger, V. Reinke - **Europa ist nicht nur Paris und London** in [Ballesterer #189, June/July 2024](https://ballesterer.at/issues/em-24/)
 -  T. Finger & V. Reinke - **Fußball und Identität: "Fußballfans sind europäischere Bürger als andere"** in [Zeit Online](https://www.zeit.de/sport/2024-06/fussball-identitaet-europa-forschung-migration/komplettansicht), 2024-06-06.
