@@ -13,10 +13,10 @@ FANZinE builds on and expands the work done by the [EUFOOT-project ('The identit
 **Policy Recommendations**
 
 <a href="https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf" target="_blank">
-    <img src="/images/Policy_paper_1.png" align="right" width="100px"/>
+    <img src="/images/Policy_paper_1.png" align="right" width="80px"/>
 </a> We are excited to present our first policy paper, *Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work*. This comprehensive proposal outlines strategies to enhance social cohesion across Europe by adopting and adapting successful socio-pedagogical fan work structures from Germany. By promoting international collaboration and creating a unified framework, we aim to leverage football's potential to strengthen European identity and social cohesion. Read the full paper [here](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf){:target="_blank"_ rel="noopener"}.
 <br>
 <br>
 <a href="https://international.politics.uni-mainz.de/files/2024/08/MPIEP-No.-30-1.pdf" target="_blank">
-    <img src="/images/Policy_paper_2.jpg" align="right" width="100px"/>
+    <img src="/images/Policy_paper_2.jpg" align="right" width="80px"/>
 </a> Our second policy paper, *Enhancing Fan Participation: A Policy Proposal for Co-determination in European Club Football* shows a growing alienation of fans from football. To remedy this, we propose instituting democratic fan involvement at all levels of European football. By establishing structured dialogue and tangible influence in decision-making processes, fans can become a part in designing a socially and financially sustainable, equitable, and just football of the future. Read the full paper [here](https://international.politics.uni-mainz.de/files/2024/08/MPIEP-No.-30-1.pdf){:target="_blank"_ rel="noopener"}.
