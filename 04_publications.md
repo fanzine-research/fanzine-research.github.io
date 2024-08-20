@@ -11,6 +11,7 @@ permalink: /publications/
 
 # Policy Papers
 - T. Finger, V. Reinke, J. Biel, A. Niemann (2024) - **Fostering Social Cohesion through International Exchange in Socio-Pedagogical Fan Work: A Policy Proposal for Similar Structures and Standards across Europe**. Mainz Papers on International and European Politics, No. 29. Mainz: Chair of International Relations, Johannes Gutenberg University. [https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf](https://international.politics.uni-mainz.de/files/2024/06/MPIEP-No.-29.pdf)
+- T. Finger, V. Reinke, J. Biel, A. Niemann (2024) - **Enhancing Fan Participation: A Policy Proposal for Co-determination in European Club Football**. Mainz Papers on International and European Politics, No. 30. Mainz: Chair of International Relations, Johannes Gutenberg University. [https://international.politics.uni-mainz.de/files/2024/08/MPIEP-No.-30-1.pdf](https://international.politics.uni-mainz.de/files/2024/08/MPIEP-No.-30-1.pdf)
 
 # Non-Scientific Publications
 - J. Biel - [**Representations of Europe in the European Public Football Sphere**](https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/), The JCMS Blog - Insight from the Journal of Common Market Studies, 2023-11-09 ([Archive link](https://web.archive.org/web/20231109081219/https://jcms.ideasoneurope.eu/2023/11/06/representations-of-europe-in-the-european-public-football-sphere/))
