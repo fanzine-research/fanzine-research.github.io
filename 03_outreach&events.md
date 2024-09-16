@@ -24,6 +24,7 @@ permalink: /outreach_events/
 -   FANZinE Team - **Workshop for developing practice recommendations**, with representatives from German fan organisations, 2024-01-17/18.
 
 # Media
+- A. Niemann - Interview **Czego Europa może się nauczyć od piłki nożnej / Was Europa vom Fußball lernen kann** in [Schlesisches Wochenblatt](https://moj.powiat.pl/was-europa-vom-fusball-lernen-kann-21902185.html), 2024-09-14.
 - A. Niemann - Interview **Fußball: Soziale Interaktion verbindet**  in [GSW-Portal des BMBF](https://www.geistes-und-sozialwissenschaften-bmbf.de/de/Mini-Serie-Zusammenhalt-in-Europa-Fussball-Soziale-Interaktion-verbindet-3224.html), 27.08.2024.
 - J. Biel - Interview **Die Weber: Nach der Fußball-EM - Was nehmen wir mit vom Wir-Gefühl?** in [RBB Radioeins](https://www.radioeins.de/programm/sendungen/sendungen/433/2407/240712_die_weber_25002.html), 2024-07-12.
 - V. Reinke - Interview **Beziehungsweise: Fußball und Europa – das Projekt FANZinE** in [Bolztribüne](https://bolztribuene.de/2024/07/12/beziehungsweise-fussball-und-europa-das-projekt-fanzine/), 2024-07-12.
