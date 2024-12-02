@@ -16,6 +16,7 @@ permalink: /outreach_events/
 -  J. Amann, J. Biel, A. Niemann - **Keynote: Football and European Belonging** and **Workshop: Measuring People’s Feeling of Belonging to Europe**, contributions to the ["FORTHEM Winter School: Belonging and Non-Belonging in Europe"](https://internationale.politik.uni-mainz.de/files/2021/11/FORTHEM_promotion_slide.pdf), 2022-02-22.
 
 # Activities with organisations from practice
+-   J. Biel - Presentation for the 70th Meeting of the Advisory Board of the Koordinationsstelle Fanprojekte, 2024-11-22.
 -   T. Finger & V. Reinke - Presentation and Discussion [**"Fußball verbindet"?! Fankultur zur Stärkung des sozialen Zusammenhaltes in Europa**](https://www.hannover.de/Kultur-Freizeit/Architektur-Geschichte/Erinnerungskultur/Gedenkst%C3%A4tte-Ahlem/Programm-Gedenkst%C3%A4tte-Ahlem/%E2%80%9EFu%C3%9Fball-verbindet%E2%80%9C) in the clubhouse of SV Arminia Hannover, 2024-06-13.
 -   FANZinE Team - [**Vereint durch Fußball - Zusammenhalt in EUROpa**](https://eveeno.com/vereint-durch-fussball), including a panel discussion with Nicole Selmer, Christoph Biermann, Kathrin Deumelandt, Martin Endemann and Kevin Kühnert, Poststadion Berlin, 2024-06-12.
 -   T. Finger & V. Reinke - Presentation and Discussion **'Mehr als nur ein Spiel': Fußball-Fankultur als demokratische Arena für Europa** at the [Sport & Demokratie Conference of the Bundeszentrale für politische Bildung](https://www.bpb.de/veranstaltungen/veranstaltungskalender/546474/sport-und-demokratie/) in the German Sport & Olympia Museum in Cologne, 2024-05-06.
