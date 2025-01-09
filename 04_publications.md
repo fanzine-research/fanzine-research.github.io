@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 # Scientific Publications
-- T. Finger, J. Biel, D. Stockemer, A. Niemann, V. Reinke, J. Jungblut, R. Kossakowski, R. Llopis‐Goig, D. Mańkowski (2025) - The Football Effect: Comparing European Identity Between Fans and Non‐Fans. Contemporary European Politics. Advance online publication. [https://doi.org/10.1002/cep4.70003](https://doi.org/10.1002/cep4.70003)
+- T. Finger, J. Biel, D. Stockemer, A. Niemann, V. Reinke, J. Jungblut, R. Kossakowski, R. Llopis‐Goig, D. Mańkowski (2025) - **The Football Effect: Comparing European Identity Between Fans and Non‐Fans**. Contemporary European Politics. Advance online publication. [https://doi.org/10.1002/cep4.70003](https://doi.org/10.1002/cep4.70003)
 - J. Biel, T. Finger, A. Niemann, V. Reinke, R. Kossakowski, J. Jungblut, D. Mańkowski, & R. Llopis‐Goig (2025) - **A European Public Sphere United by Football: A Comparative Quantitative Text Analysis of German, Norwegian, Polish and Spanish Football Media**. Journal of Common Market Studies. 63(1), 3-27. [https://doi.org/10.1111/jcms.13559](https://doi.org/10.1111/jcms.13559)
 - J. Biel, V. Reinke, T. Finger, A. Niemann (2024) - **No longer sidelined? Football fandom, belonging, and the boundaries of Europe**. Journal of Contemporary European Studies. 32(4), 1343–1365. [https://doi.org/10.1080/14782804.2024.2358364](https://doi.org/10.1080/14782804.2024.2358364)
 - J. Biel, T. Finger, V. Reinke, J. Amann, A. Niemann, M. Jungblut (2023) - **Becoming European Through Football Media? Representations of Europe in German Football News Coverage**. International Journal of Sport Communication, 16(2), 202–214. [https://doi.org/10.1123/ijsc.2023-0004](https://doi.org/10.1123/ijsc.2023-0004)
